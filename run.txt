@@ -11,3 +11,8 @@ For Admin Account, please create one with superuser!
 
 
 Python manage.py createsuperuser
+
+added a new line and pull requested it to mohan 
+
+
+For Admin Account, please create one with superuser!
